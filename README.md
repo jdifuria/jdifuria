@@ -1,9 +1,10 @@
 ##### Hello, I'm Jay👋
 
-- 🗂️ Professionally, I have ~3 years of industry software engineering experience and ~6 years of product management experience. Currently, I'm a product manager that can't let go of programming and data science.
-- 📰 Check out some of the work I've been up to lately: [Arm Gaming on Windows](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/#:~:text=These%20new%20Arm%20devices%20have,step%20forward%20for%20Arm%20gaming.)
+- 🌉 Located in the SF Bay Area
 - 💻 As of late, I've been building web apps with python/django and working on iterating fast on ideas to expand my skillset.
-- 🙌 I'm looking to collaborate on startup SaaS products.
+- 🙌 I'm looking to collaborate on startup SaaS products. Generally interested in fintech, edutech, audio, gaming, and tech that helps people.
+- 🗂️ Professionally, I have ~6 years of industry program management experience (SW & HW), and ~3 years of industry software engineering experience.
+- 📰 Check out some of the work I've been up to lately: [Arm Gaming on Windows](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/#:~:text=These%20new%20Arm%20devices%20have,step%20forward%20for%20Arm%20gaming.)
 
 ##### Top Tools
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
